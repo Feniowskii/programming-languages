@@ -59,5 +59,8 @@
 </ol>
 
 <h2>Prolog</h2>
-
-<p><b>TBA</b></p>
+<ol>
+<li>Implement counting sort as a predicate <b>counting_sort( List, SortedList )</b> which sorts the list in reverse order</li>
+<li>Implement a predicate called <b>is_graph( List )</b> deciding if a list forms a graphic sequence. Use the sorting predicate from previous task</li>
+<li>Implement predicate <b>is_connected( List, Answer )</b> deciding if a list forms a graphic sequence and the graph it forms is connected</li>
+</ol>
