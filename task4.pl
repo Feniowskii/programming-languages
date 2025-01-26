@@ -72,6 +72,7 @@ is_connected_by_degrees(List) :-
 
 :- initialization(main).
 main :-
+    % Test cases with expected correct answers
     Tests = [
         [1,3,4,2,4,2,2,2],   % Yes, Yes
         [3,1,4,3,2,5,5,0,2], % No, No
